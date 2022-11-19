@@ -7,7 +7,7 @@ class NodeOfInt
 	friend class ListOfInts;
 private:
 	int theValue;
-	NodeOfInt* next;
+	NodeOfInt *next;
 
 public:
 	NodeOfInt();
