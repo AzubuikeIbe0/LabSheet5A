@@ -13,7 +13,7 @@ public:
 	ListOfInts();
 	void insertBack(int);
 	void displayList();
-	NodeOfInt* deleteMostRecent();
+	void deleteMostRecent();
 	void deleteInt(int pos);
 	~ListOfInts();
 };
